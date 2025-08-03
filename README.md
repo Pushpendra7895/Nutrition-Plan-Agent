@@ -1,5 +1,6 @@
 # Nutrition-Plan-Agent
-Certainly! Here's a **1000-word detailed description** for the project **“The Smartest Nutrition Agentic AI Plan”**, aligned with **Problem Statement No. 8 – Nutrition Agent**, and incorporating the required technologies such as **IBM Cloud Lite** and **IBM Granity**.
+**“The Smartest Nutrition Agentic AI Plan”**, aligned with 
+**Problem Statement No. 8 – Nutrition Agent**, and incorporating the required technologies such as **IBM Cloud Lite** and **IBM Granity**.
 
 ---
 
