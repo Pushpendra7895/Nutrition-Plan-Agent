@@ -1,21 +1,12 @@
 # Nutrition-Plan-Agent
 **“The Smartest Nutrition Agentic AI Plan”**, aligned with 
-**Problem Statement No. 8 – Nutrition Agent**, and incorporating the required technologies such as **IBM Cloud Lite** and **IBM Granity**.
-
----
-
 ## **The Smartest Nutrition Agentic AI Plan**
-
-### **Overview**
-
+**Overview**
 In today’s health-conscious world, there is a growing demand for personalized and intelligent dietary guidance. As more people seek to optimize their health, manage chronic conditions, or improve their fitness, the limitations of conventional diet apps and rigid nutrition templates are becoming increasingly evident. Most tools in the current ecosystem provide generic meal plans, lack personalization, ignore cultural and regional dietary nuances, and fail to consider the user’s evolving health conditions or allergies. Meanwhile, professional nutritionists struggle to scale their personalized services due to time and resource constraints.
 
 To bridge this gap, we propose the development of the **Smartest Nutrition Agentic AI**—an adaptive, interactive, and intelligent virtual nutrition assistant built using cutting-edge generative AI, IBM Cloud Lite services, and IBM Granity. This solution is designed to understand individual needs in real time, learn from user interactions, and provide highly personalized and context-aware nutritional guidance. By leveraging natural language processing (NLP), multimodal input understanding, large-scale dietary and health databases, and user feedback loops, this system redefines how individuals interact with nutrition support.
 
----
-
 ### **Project Objectives**
-
 The primary objective is to build a virtual AI-powered assistant that mimics the expertise, empathy, and adaptability of a real-world nutritionist while offering the scalability and convenience of a digital platform. The AI assistant will:
 
 * **Understand user inputs** via text, voice, and image (e.g., analyzing food images, grocery labels).
@@ -24,8 +15,6 @@ The primary objective is to build a virtual AI-powered assistant that mimics the
 * **Explain nutrition choices** in layman terms (e.g., “This food is better because it has a lower glycemic index”).
 * **Adapt dynamically** through real-time feedback and health data inputs from users or connected devices.
 * **Leverage IBM technologies**, including IBM Cloud Lite for backend services and deployment, and IBM Granity for training and managing AI models.
-
----
 
 ### **Core Functionalities**
 
