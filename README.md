@@ -16,6 +16,141 @@ The primary objective is to build a virtual AI-powered assistant that mimics the
 * **Adapt dynamically** through real-time feedback and health data inputs from users or connected devices.
 * **Leverage IBM technologies**, including IBM Cloud Lite for backend services and deployment, and IBM Granity for training and managing AI models.
 
+
+Here is the full content of your PowerPoint presentation, preserved exactly as it appears, without changes:
+
+---
+
+**Smartest Nutrition AI Agent**
+**CAPSTONE PROJECT**
+**Presented By:**
+Student name:
+College Name & Department:
+
+---
+
+### **OUTLINE**
+
+* Problem Statement
+* Technology used
+* Wow factor
+* End users
+* Result
+* Conclusion
+* GitHub Link
+* Future scope
+* IBM Certifications
+
+---
+
+### **Problem Statement**
+
+Researchers, students, and professionals often struggle to stay updated with the rapidly growing volume of academic publications, technical articles, datasets, and evolving research trends. Manually reviewing, filtering, and synthesizing information across multiple domains is time-consuming and inefficient.
+
+**Proposed Solution:**
+An AI Research Agent that uses Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG), to assist users in conducting efficient literature reviews, generating summaries, identifying research gaps, and recommending relevant papers, datasets, or collaborators.
+
+---
+
+### **Technology used**
+
+* IBM cloud lite services
+* Natural Language Processing (NLP)
+* Retrieval Augmented Generation (RAG)
+* IBM Granite model
+
+---
+
+### **IBM cloud services used**
+
+* IBM Cloud Watsonx AI Studio
+* IBM Cloud Watsonx AI runtime
+* IBM Cloud Agent Lab
+* IBM Granite foundation model
+
+---
+
+### **Wow factors**
+
+This agent will significantly reduce research time, improve the quality of literature reviews, help early-stage researchers find direction, and foster interdisciplinary collaboration by making knowledge more accessible and actionable.
+
+**Unique features:**
+
+* Semantic search across research papers, journals, and datasets
+* Auto-summarization of selected papers
+* Citation and reference analysis to trace influence
+* Recommendation of research papers based on a user’s current topic
+* Trend analysis over time for specific keywords or domains
+* Collaboration mapping: suggests potential co-authors or institutions based on similar research interests.
+
+---
+
+### **End users**
+
+* Academic Researchers
+* Research Institutions and Universities
+* Industry R\&D Teams
+* Educators
+
+---
+
+### **Results**
+
+* Results
+* <img width="929" height="881" alt="image" src="https://github.com/user-attachments/assets/de34513f-ec93-4b99-bf4f-19d5d4a87746" />
+
+* ![Capture 1](https://github.com/user-attachments/assets/06368e6e-2ef7-46d7-b232-884e22da5ea3)
+
+* Results
+* ![Capture 2](https://github.com/user-attachments/assets/89ca4ed4-6357-429d-90cf-f2e2221e9979)
+
+* Results
+* <img width="928" height="882" alt="image" src="https://github.com/user-attachments/assets/9052b370-e6bc-48b8-9366-1d688cd04253" />
+
+* Results
+* **Deployed AI Agent**
+
+---
+
+### **Conclusion**
+
+The agent can generate reports, suggest hypotheses, and even draft sections of research papers. It saves time by automating repetitive tasks like citation management and data extraction.
+Research Agents enhance efficiency, accuracy, and innovation in both academic and industrial R\&D.
+
+---
+
+### **Future scope**
+
+* Multilingual Research Support
+* Voice-Activated Research Assistant
+* Real-Time Collaboration Features
+* Research Gap and Novel Topic Identification
+* Integration with Publishing Platforms
+* AI-Assisted Paper Drafting
+
+
+### **IBM Certifications**
+
+![IBMDesign20250719-26-an3b8t_page-0001](https://github.com/user-attachments/assets/2b1cfc85-8e96-4f94-8dcb-76e85c7c9688)
+![IBMDesign20250715-26-mm8coz_page-0001](https://github.com/user-attachments/assets/83c7f410-f907-496b-b26e-27bd7b306d0d)
+![Completion Certificate _ SkillsBuild rag_page-0001](https://github.com/user-attachments/assets/d9d3c62e-c2f9-4021-8105-5fea68b90f75)
+
+
+
+
+### **GitHub Link**
+
+[https://github.com/Pushpendra7895/Nutrition-Plan-Agent](https://github.com/Pushpendra7895/Nutrition-Plan-Agent)
+**Make sure that there should be a README file**
+
+---
+
+**THANK YOU**
+
+---
+
+Let me know if you want this in a different format like Word or PDF.
+
 ### **Core Functionalities**
 
 #### 1. **Multimodal Input Understanding**
@@ -81,4 +216,3 @@ The solution architecture includes:
 * Image processing pipeline using computer vision models to analyze food photos or grocery labels.
 * Voice recognition for natural speech interaction.
 
-#### \*\*4. Data
